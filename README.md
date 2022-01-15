@@ -1,0 +1,5 @@
+- Obsessed with programming since yesterday
+- MIDI artisan
+- Camellia/shitposting enjoyer
+- Drugs👍
+- https://linktr.ee/Charas_Breakfast
