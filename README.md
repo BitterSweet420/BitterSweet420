@@ -1,5 +1,5 @@
 # About Me
-Hi I am Skand Tiwari, I am new to github and some of the other programming languages. I have great interest in art, music, and programming. I am currently making a game with a small game developing team called the "Callback Cats". 
+Hi I am Bitter, I am new to github and some of the other programming languages. I have great interest in art, music, and programming. I am currently making a game with a small game developing team called the "Callback Cats". 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
