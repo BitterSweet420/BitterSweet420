@@ -35,7 +35,7 @@ Hi I am Bitter, I am new to github and some of the other programming languages. 
 
 I also upload stuff YouTube, DeviantArt, & Tumblr
 Go check 'em out! 
-
+<!--socials-->
 [![YouTube - Subscribe](https://img.shields.io/badge/YouTube-Subscribe-ff0000?logo=https%3A%2F%2Fwww.linkpicture.com%2Fq%2Fimage_2022-01-27_132653.png)](https://www.youtube.com/channel/UC9E8-Wx_0-mX20ozNP7RsVA/)
 [![Tumblr - Follow](https://img.shields.io/static/v1?label=Tumblr&message=Follow&color=304e6c&logo=https%3A%2F%2Fexternal-content.duckduckgo.com%2Fiu%2F%3Fu%3Dhttps%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F137418%2Fisolated%2Fpreview%2Ff95d43a9a4f5e0cd4a0b6e79cc99d190-logo-del-icono-de-tumblr-by-vexels.png%26f%3D1%26nofb%3D1)](https://bittervinylsweet.tumblr.com)
 [![Discord Server - Join](https://img.shields.io/static/v1?label=Discord+Server&message=Join&color=738ada&logo=https%3A%2F%2Fd1fdloi71mui9q.cloudfront.net%2FABWsXSleQnwHTkAymi8V_image_2021-12-01_122634.png)](https://discord.gg/52DSPBX7tY)
@@ -43,5 +43,5 @@ Go check 'em out!
 [![Osu Profile - the only game I play lmfao](https://img.shields.io/badge/Osu_Profile-the_only_game_I_play_lmfao-ff66aa?logo=https%3A%2F%2Fd1fdloi71mui9q.cloudfront.net%2FdXCzR6oHSZSDFoZ9cyV8_image_2021-12-01_122200.png)](https://osu.ppy.sh/users/25660274)
 
 
-
+<!--views-->
 ![](https://komarev.com/ghpvc/?username=BitterSweet420&color=red)
